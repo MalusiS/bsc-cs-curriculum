@@ -1,0 +1,24 @@
+{
+  "student": "Malusi Skunyana",
+  "program": "BSc Computer Science (Systems & Software Engineering)",
+  "program_version": "7.1",
+  "start_date": "2026-06-11",
+  "expected_completion": "2031-06-30",
+  "cumulative_gpa": null,
+  "total_credits_attempted": 0,
+  "total_credits_earned": 0,
+  "years": [
+    {
+      "year": 1,
+      "credits": 37,
+      "term_gpa": null,
+      "courses": [
+        { "code": "MISSING-SEM", "title": "The Missing Semester of Your CS Education", "institution": "MIT", "credits": 1, "grade": null, "status": "in_progress" },
+        { "code": "CS50x", "title": "Introduction to Computer Science", "institution": "Harvard University (edX)", "credits": 4, "grade": null, "status": "in_progress", "exam_scores": { "midterm": null, "final": null } },
+        { "code": "18.01", "title": "Calculus I", "institution": "MIT OCW", "credits": 4, "grade": null, "status": "in_progress", "exam_scores": { "midterm": null, "final": null } },
+        { "code": "DIR-READ-I", "title": "Directed Reading I", "institution": "Self-Directed", "credits": 3, "grade": null, "status": "in_progress" },
+        { "code": "Y1-PROJ", "title": "SVG Graphics Engine", "institution": "Self-Directed", "credits": 2, "grade": null, "status": "in_progress" }
+      ]
+    }
+  ]
+}
